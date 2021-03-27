@@ -1,0 +1,37 @@
+[
+     {
+          "Name": "Mohammed Siraj",
+          "Runs": "10",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "142.86",
+          "Date": " Nov 6 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Team": "Sunrisers Hyderabad",
+          "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Name": "Mohammed Siraj",
+          "Runs": "2",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "66.67",
+          "Date": " Oct 31 2020",
+          "Venue": " Sharjah",
+          "Opponent Team": "Sunrisers Hyderabad",
+          "Result": "Sunrisers won by 5 wickets (with 35 balls remaining)"
+     }
+][
+     {
+          "Name": "Mohammed Siraj",
+          "Runs": "5",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "125.00",
+          "Date": " Oct 5 2020",
+          "Venue": " Dubai",
+          "Opponent Team": "Delhi Capitals",
+          "Result": "Capitals won by 59 runs"
+     }
+]

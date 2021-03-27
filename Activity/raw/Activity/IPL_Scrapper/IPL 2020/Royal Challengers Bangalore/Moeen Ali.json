@@ -1,0 +1,37 @@
+[
+     {
+          "Name": "Moeen Ali",
+          "Runs": "0",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "0.00",
+          "Date": " Nov 6 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Team": "Sunrisers Hyderabad",
+          "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)"
+     }
+][
+     {
+          "Name": "Moeen Ali",
+          "Runs": "1",
+          "Fours": "0",
+          "Sixes": "0",
+          "Strike Rate": "50.00",
+          "Date": " Oct 25 2020",
+          "Venue": " Dubai",
+          "Opponent Team": "Chennai Super Kings",
+          "Result": "Super Kings won by 8 wickets (with 8 balls remaining)"
+     }
+][
+     {
+          "Name": "Moeen Ali",
+          "Runs": "11",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "84.62",
+          "Date": " Oct 5 2020",
+          "Venue": " Dubai",
+          "Opponent Team": "Delhi Capitals",
+          "Result": "Capitals won by 59 runs"
+     }
+]

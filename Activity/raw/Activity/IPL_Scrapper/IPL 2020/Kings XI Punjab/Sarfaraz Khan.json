@@ -1,0 +1,37 @@
+[
+     {
+          "Name": "Sarfaraz Khan",
+          "Runs": "14",
+          "Fours": "2",
+          "Sixes": "0",
+          "Strike Rate": "155.56",
+          "Date": " Oct 4 2020",
+          "Venue": " Dubai",
+          "Opponent Team": "Chennai Super Kings",
+          "Result": "Super Kings won by 10 wickets (with 14 balls remaining)"
+     }
+][
+     {
+          "Name": "Sarfaraz Khan",
+          "Runs": "7",
+          "Fours": "1",
+          "Sixes": "0",
+          "Strike Rate": "87.50",
+          "Date": " Oct 1 2020",
+          "Venue": " Abu Dhabi",
+          "Opponent Team": "Mumbai Indians",
+          "Result": "Mum Indians won by 48 runs"
+     }
+][
+     {
+          "Name": "Sarfaraz Khan",
+          "Runs": "12",
+          "Fours": "2",
+          "Sixes": "0",
+          "Strike Rate": "100.00",
+          "Date": " Sep 20 2020",
+          "Venue": " Dubai",
+          "Opponent Team": "Delhi Capitals",
+          "Result": "Match tied (Capitals won the one-over eliminator)"
+     }
+]
